@@ -20,7 +20,7 @@ Built for physics students studying classical mechanics, orbital dynamics, or pr
 
 ### 🎥 Animated Orbit
 
-<img src="Images/download.mp4" alt="kepler-anim" width="400">
+<img src="Images/orbitmotion.gif)" alt="kepler-anim" width="400">
 
 ---
 
