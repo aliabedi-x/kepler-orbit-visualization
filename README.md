@@ -8,8 +8,6 @@ This project visualizes **Keplerian orbits** using two approaches:
    - Total energy, turning points \( r_{\min}, r_{\max} \)
 2. 🎥 A **classical animation** of a body orbiting around a fixed central mass
 
-Built for physics students studying classical mechanics, orbital dynamics, or preparing for graduate-level work in physical engineering.
-
 ---
 
 ## 🖼 Preview
