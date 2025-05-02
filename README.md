@@ -16,7 +16,7 @@ Built for physics students studying classical mechanics, orbital dynamics, or pr
 
 ### 📊 Interactive Plot (Orbit + Energy)
 
-<img src="Images/Screenshot%202025-05-02%20at%2012.47.24%E2%80%AFPM.png" alt="kepler-graph" width="100%">
+<img src="Images/interactive-kepler.png" alt="kepler-graph" width="100%">
 
 ### 🎥 Animated Orbit
 
