@@ -4,8 +4,8 @@ This project visualizes **Keplerian orbits** using two approaches:
 
 1. 📊 A **graph-based interactive tool** showing:
    - Orbital shape (ellipse, parabola, hyperbola)
-   - Effective potential \( V_{\text{eff}}(r) \)
-   - Total energy, turning points \( r_{\min}, r_{\max} \)
+   - Effective potential
+   - Total energy, turning points
 2. 🎥 A **classical animation** of a body orbiting around a fixed central mass
 
 ---
@@ -28,14 +28,14 @@ This project visualizes **Keplerian orbits** using two approaches:
   - Bound: Ellipses (ε < 1)
   - Unbound: Parabolas (ε = 1), Hyperbolas (ε > 1)
 - Displays:
-  - Effective potential curve \( V_{\text{eff}}(r) \)
-  - Central potential \( -\alpha/r \)
+  - Effective potential curve
+  - Central potential
   - Total energy line and turning points
 - Interactive sliders to vary:
-  - Masses \( m_1, m_2 \)
-  - Angular momentum \( L_z \)
-  - Potential strength \( \alpha \)
-  - Total energy \( E \)
+  - Masses
+  - Angular momentum
+  - Potential strength
+  - Total energy
 
 ---
 
